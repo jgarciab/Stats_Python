@@ -1,5 +1,5 @@
-Stats_Python
-============
+= Easy stats in python
+Javier Garcia-Bernardo, 2014
 
-Easy stats in python
-Javier Garcia-Bernardo
+= To see the file online:
+nbviewer.ipython.org/github/jgarciab/Stats_Python/blob/master/Statistics 2014-09-29.ipynb
